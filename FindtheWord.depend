@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1544403185 source:c:\users\allie\onedrive\desktop\findtheword\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Game1.h"
+
+1544124763 c:\users\allie\onedrive\desktop\findtheword\guess.h
+
+1544135680 c:\users\allie\onedrive\desktop\findtheword\game1.h
+
